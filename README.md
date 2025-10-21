@@ -1,8 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.comlab.uni-rostock.de/bsf/?next=%2Fservices%2Fbinder%2Fv2%2Fglur%2Fmsf-cdma%252Fcdma-exercise-deeplearning-public%2FHEAD%3Furlpath%3D%252Fdoc%252Ftree%252Findex.ipynb)
 
-# Deep Learning - Course 
+# Data Science - Course 
 
-This repository collects supplementary materials to the master's course "Deep Learning" given by [Berit Zeller-Plumhoff](https://www.cdma.uni-rostock.de/lehrstuhl/team/) - University of Rostock - [Chair of Data-driven Analysis and Design of Materials](https://www.cdma.uni-rostock.de/), Rostock, Germany. 
+This repository collects supplementary materials to the master's course "DataScience" given by [Berit Zeller-Plumhoff](https://www.cdma.uni-rostock.de/lehrstuhl/team/) - University of Rostock - [Chair of Data-driven Analysis and Design of Materials](https://www.cdma.uni-rostock.de/), Rostock, Germany. 
 
 ## Getting Started
 
