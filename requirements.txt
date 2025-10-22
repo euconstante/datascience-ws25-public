@@ -8,3 +8,4 @@ matminer
 pymatgen
 openpyxl
 mdsdata
+nbgrader
