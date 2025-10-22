@@ -15,4 +15,3 @@ scikit-learn
 scikit-image
 regex
 scipy
-nbgrader
