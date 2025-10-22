@@ -13,7 +13,6 @@ mdsdata
 tqdm
 scikit-learn
 scikit-image
-torchmetrics
 regex
 scipy
 nbgrader
